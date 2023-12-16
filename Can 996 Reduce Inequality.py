@@ -5,13 +5,13 @@
 # 资本收入计算规则如下，如果存入银行，每年利率为1%。如果用于投资，10%的概率资本翻倍，50%的概率资本不变，40%的概率资本减少20%.富人中有60%的人愿意投资而40%愿意储蓄，且富人中有0.01%的人愿意996，其余人是八小时工作制。穷人全部996，挣的钱全部用于储蓄。
 
 
-Can 996 reduce inequality? 
+# Can 996 reduce income inequality? 
 
-996 refers to working from 9am to 9pm, six days a week. The global total wealth is $454.8 trillion with a population of 540 million. The rich make up 13.1% of the population and control 85.2% of the global wealth, while the poor make up 86.9% of the population and control 14.8% of the global wealth (Global Wealth Report, 2023).
+# 996 refers to working from 9am to 9pm, six days a week. The global total wealth is $454.8 trillion with a population of 540 million. The rich make up 13.1% of the population and control 85.2% of the global wealth, while the poor make up 86.9% of the population and control 14.8% of the global wealth (Global Wealth Report, 2023).
 
-The labor income calculation rule is as follows: within an eight-hour workday, income = Q(t) * p, where Q(t) is the production function and decreases according to the law of diminishing marginal returns. p is the price per unit of labor, and the global average wage is $9,733 per year (Jack Flynn, 2023). During overtime, which is four hours on workdays and 12 hours on weekends, the price per unit of labor increases by 1.5 times.
+#  labor income calculation rule is as follows: within an eight-hour workday, income = Q(t) * p, where Q(t) is the production function and decreases according to the law of diminishing marginal returns. p is the price per unit of labor, and the global average wage is $9,733 per year (Jack Flynn, 2023). During overtime, which is four hours on workdays and 12 hours on weekends, the price per unit of labor increases by 1.5 times.
 
-The capital income calculation rule is as follows: If deposited in a bank, the annual interest rate is 1%. If invested, there is a 10% chance of doubling the capital, a 50% chance of not changing, and a 40% chance of decreasing the capital by 20%. 60% of the rich are willing to invest while 40% prefer to save, and only 0.01% of the rich are willing to work under the 996 system, while the rest work eight hours a day. All poor people work under the 996 system and save all their earnings.
+# The capital income calculation rule is as follows: If deposited in a bank, the annual interest rate is 1%. If invested, there is a 10% chance of doubling the capital, a 50% chance of not changing, and a 40% chance of decreasing the capital by 20%. 60% of the rich are willing to invest while 40% prefer to save, and only 0.01% of the rich are willing to work under the 996 system, while the rest work eight hours a day. All poor people work under the 996 system and save all their earnings.
 
 
 import matplotlib.pyplot as plt
